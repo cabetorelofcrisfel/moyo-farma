@@ -1,2 +1,7 @@
-# moyo-farma
-um app para gestao de stocks de farmacias
+# Kamba Farma
+
+Sistema de gestão de stock para farmácias — estrutura inicial.
+
+Instruções rápidas:
+- Python 3.10+
+- Instalar dependências: `pip install -r requirements.txt`
